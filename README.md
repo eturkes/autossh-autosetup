@@ -15,5 +15,7 @@ limitations under the License.
 -->
 
 # Autossh Autosetup
+#### *This project is generally feature complete*
 
-Script for setting up reverse AutoSSH
+Script for setting up reverse AutoSSH.  
+Please read the script comments for further information.  
